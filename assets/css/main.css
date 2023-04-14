@@ -2351,5 +2351,5 @@ body {
   position: relative;
 }
 .scaled-image {
-  max-width: 80%; /* Adjust this percentage to scale down the image */
+  max-width: 50%; /* Adjust this percentage to scale down the image */
 }
